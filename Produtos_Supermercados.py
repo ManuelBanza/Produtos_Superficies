@@ -2,6 +2,7 @@ import requests
 import pandas as pd
 from datetime import datetime, timedelta
 import io
+import urllib3
 
 # Lista de produtos a pesquisar
 SHEET_ID = '1ZGw9064Dj07dKZbKxFUNQVBYS9fDPWhbTLwE0pfjXK4'
