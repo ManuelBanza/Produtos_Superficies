@@ -5,7 +5,7 @@ name: 2 PM Extract products
 
 on:
     schedule:
-      - cron: "0 15 * * *"
+      - cron: "0 9 * * *"
  
 permissions:
   contents: write
